@@ -1,6 +1,6 @@
+title: "Ryan Fang – Game Developer Portfolio"
+description: "Game design & Unreal Engine projects"
 plugins:
   - jekyll-remote-theme
 
-remote_theme: Akio
-title: Ryan's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: artemsheludko/akio
