@@ -8,4 +8,6 @@ I am a game enthusiast for 20 years and a newly committed game developer. I also
 </video>
 
 ### Figma Application Prototype
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Y898LmI3wB0IGv067sQz0M/Cooking-companion?node-id=1104-29478&starting-point-node-id=1104%3A29478&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="640" height="360" src="https://embed.figma.com/proto/Y898LmI3wB0IGv067sQz0M/Cooking-companion?node-id=1104-29478&starting-point-node-id=1104%3A29478&embed-host=share" allowfullscreen>
+  Your browser does not support direct viewing
+</iframe>
