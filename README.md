@@ -12,7 +12,7 @@ A mini game demo created with MIPS assembly language, mimicking the classical Dr
 </video>
 
 ### Recipe Finder
-A recipe finder Figma prototype, desgined for being intuinitive and inclusive to all types of users.
+A recipe finder Figma prototype, desgined for intuitive usage and being inclusive to all types of users.
 For best experience, go to the Figma website by clicking "cooking companion". Alternatively, you can view in full screen by clicking the full screen icon on the top-right of this frame.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="960" height="540" src="https://embed.figma.com/proto/Y898LmI3wB0IGv067sQz0M/Cooking-companion?node-id=1104-29478&starting-point-node-id=1104%3A29478&embed-host=share" allowfullscreen>
   Your browser does not support direct viewing
