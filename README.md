@@ -1,6 +1,6 @@
 # Ryan Fang - Unreal Engine Game Developer
 ## About Me
-I am a game enthusiast for 20 years and a newly committed game developer. I also do application and UI/UX design.
+I am a game enthusiast for 20 years and a newly committed game developer. I use Unreal Engine 5 and will be learning Unity soon.
 
 ## My Projects
 
@@ -16,7 +16,7 @@ Original Langscape design, featuring a forest area, a grassland, and a small lig
 </iframe>
 
 #### Game Mechanics Implementation Project
-Learning projected implemented from scratch, mixed essential features to six core game modes: stealth survival, action combat, capture the flag, crafting, and story.
+Learning project implemented from scratch, mixed essential features to six core game modes: stealth survival, action combat, capture the flag, crafting, and story.
 <iframe
   src="https://drive.google.com/file/d/12UvzXFzVeLjp6ax38uaPa0DiFXU-1dtT/preview"
   width="960" height="540"
