@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: "Ryan Fang – Game Developer Portfolio"
 description: "Game design & Unreal Engine projects"
+github:
+  is_project_page: false
