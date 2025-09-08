@@ -6,7 +6,8 @@ I am a game enthusiast for 20 years and a newly committed game developer. I also
 
 ### Unreal Engine 5 Projects
 
-#### Forest Landscape Original Project
+#### Forest Landscape Project
+Original Langscape design, featuring a forest area, a grassland, and a small lighted room. This scene could be the base to any outdoor wild nature level.
 <iframe
   src="https://drive.google.com/file/d/1xc0KzSKnmbgQzWvXdo2Jjj4f1wPnhNIl/preview"
   width="960" height="540"
@@ -14,9 +15,10 @@ I am a game enthusiast for 20 years and a newly committed game developer. I also
   allowfullscreen>
 </iframe>
 
-#### Game Mechanics Implementation Learning Project
+#### Game Mechanics Implementation Project
+Learning projected implemented from scratch, mixed essential features to six core game modes: stealth survival, action combat, capture the flag, crafting, and story.
 <iframe
-  src="https://drive.google.com/file/d/12UvzXFzVeLjp6ax38uaPa0DiFXU-1dtT/view?usp=sharing"
+  src="https://drive.google.com/file/d/12UvzXFzVeLjp6ax38uaPa0DiFXU-1dtT/preview"
   width="960" height="540"
   allow="autoplay; encrypted-media"
   allowfullscreen>
