@@ -1,6 +1,6 @@
 # Ryan Fang - Unreal Engine Game Developer
 ## About Me
-I am a game enthusiast for 20 years and a newly committed game developer. I use Unreal Engine 5 and will be learning Unity soon.
+I am a game enthusiast for 20 years and a newly committed game developer. I use Unreal Engine 5 scripting in Blueprint and Unity scripting in C#.
 
 ## My Projects
 
