@@ -8,7 +8,7 @@ A 20 Second Game Jam 2025 submission on Itch.io. Me and my teammate built a shor
 
 The game explores themes of moral choice, responsibility, and timing, forcing players to make moral decisions under extreme time pressure.
 <iframe
-  src="[https://drive.google.com/file/d/1xc0KzSKnmbgQzWvXdo2Jjj4f1wPnhNIl/preview](https://drive.google.com/file/d/1fS8pwrAU7n6dWXs3CG2QwhgNDMGQDg6J/view?usp=drive_link)"
+  src="https://drive.google.com/file/d/1xc0KzSKnmbgQzWvXdo2Jjj4f1wPnhNIl/preview"
   width="960" height="540"
   allow="autoplay; encrypted-media"
   allowfullscreen>Your browser does not support the video tag.
