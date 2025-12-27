@@ -14,7 +14,7 @@ The game explores themes of moral choice, responsibility, and timing, forcing pl
   allowfullscreen>Your browser does not support the video tag.
 </iframe>
 
-For playable version, click on <a href = "Playable prototype is here: https://lnkd.in/ectw8Q-H"> this link </a>.
+For playable version, click on <a href = "Playable prototype is here: https://lnkd.in/ectw8Q-H"> this link </a>
 ### Unreal Engine 5 Projects
 
 #### Forest Landscape Project
