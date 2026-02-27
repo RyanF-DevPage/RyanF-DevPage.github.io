@@ -18,7 +18,12 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
+        <p style="margin-top: 10px;">
+          <a href="mailto:{{ site.email }}">Email</a> |
+          <a href="{{ site.linkedin }}">LinkedIn</a> |
+          <a href="{{ site.itch }}">Itch.io</a> |
+          <a href="{{ site.github }}">GitHub</a>
+        </p>
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
