@@ -1,11 +1,22 @@
+details {
+  margin-bottom: 12px;
+}
+
+summary {
+  cursor: pointer;
+  font-size: 1.05em;
+  margin-top: 8px;
+}
+
+summary:hover {
+  color: #2a7ae2;
+}
 # Ryan Fang
 Unity Gameplay Programmer
 
 Computer Science Graduate based in Canada.
 Specialized in gameplay systems design and programming.
 
-<div style="display:flex; gap:30px; margin-bottom:50px;">
-  <!-- <img src="assets/images/demo.png" width="350"> -->
   <div>
     <h2>INTERVENE - An Original 2D RPG Demo</h2>
     <p>Unity | C# | 20 Second Game Jam</p>
@@ -15,7 +26,12 @@ Specialized in gameplay systems design and programming.
   <li><strong>Team Size:</strong> 2</li>
   <li><strong>Platform:</strong> PC</li>
   <li><strong>Release:</strong> Dec 24, 2025</li>
-</ul>
+</ul>    <iframe
+  src="https://drive.google.com/file/d/1fS8pwrAU7n6dWXs3CG2QwhgNDMGQDg6J/preview"
+  width="960" height="540"
+  allow="autoplay; encrypted-media"
+  allowfullscreen>Your browser does not support the video tag.
+</iframe>
 <section class="project-description">
 
   <h3>What?</h3>
@@ -26,8 +42,7 @@ Specialized in gameplay systems design and programming.
   </p>
 
   <details>
-    <summary><h3>Why & How? (Click to expand)</h3></summary>
-
+    <summary><strong>Why & How?</strong></summary>
     <p>
       As a newly committed game developer, I built my first original game
       completely from the ground up. Working alongside Claude AI, I implemented
@@ -36,8 +51,8 @@ Specialized in gameplay systems design and programming.
     </p>
 
     <p>
-      The system was designed with extensibility in mind, allowing features
-      to be modified or expanded with minimal refactoring. For example, all
+      The system was designed with extensibility in mind, allowing features to
+      be modified or expanded with minimal refactoring. For example, all
       interactable objects inherit from a shared base class while maintaining
       independent interaction logic.
     </p>
@@ -46,39 +61,39 @@ Specialized in gameplay systems design and programming.
       The project was version-controlled using GitHub to support safe iteration,
       consistent updates, and collaborative development.
     </p>
-
   </details>
 
-  <h3>When?</h3>
-  <p>
-    The prototype was officially published on Itch.io on December 24, 2025.
-  </p>
+  <details>
+    <summary><strong>When?</strong></summary>
+    <p>
+      The prototype was officially published on Itch.io on December 24, 2025.
+    </p>
+  </details>
 
-  <h3>Who & Where?</h3>
-  <p>
-    I collaborated with my teammate Xiaoyi Wang, a game designer and narrator.
-    All work was conducted remotely through messaging and Zoom meetings.
-  </p>
+  <details>
+    <summary><strong>Who & Where?</strong></summary>
+    <p>
+      I collaborated with my teammate Xiaoyi Wang, a game designer and narrator.
+      All work was conducted remotely through messaging and Zoom meetings.
+    </p>
+  </details>
 
-  <h3>Outcome</h3>
-  <p>
-    The project resulted in a fully playable prototype that successfully
-    implemented all core gameplay mechanics. Beyond the technical outcome,
-    the experience provided valuable practice collaborating with a
-    non-technical teammate.
-    This required translating complex technical concepts into clear,
-    accessible language to support shared understanding and productive
-    design decisions across the team.
-  </p>
+  <details>
+    <summary><strong>Outcomes</strong></summary>
+    <p>
+      The project resulted in a fully playable prototype that successfully
+      implemented all core gameplay mechanics.
+    </p>
+
+    <p>
+      Beyond the technical outcome, I gained valuable experience collaborating
+      with a non-technical teammate. This required translating complex
+      technical concepts into clear, accessible language to support shared
+      understanding and productive decision-making across the team.
+    </p>
+  </details>
 
 </section>
-    <iframe
-  src="https://drive.google.com/file/d/1fS8pwrAU7n6dWXs3CG2QwhgNDMGQDg6J/preview"
-  width="960" height="540"
-  allow="autoplay; encrypted-media"
-  allowfullscreen>Your browser does not support the video tag.
-</iframe>
-  </div>
 </div>
 
 <div style="display:flex; gap:30px; margin-bottom:50px;">
