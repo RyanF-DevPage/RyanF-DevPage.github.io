@@ -1,16 +1,20 @@
-details {
-  margin-bottom: 12px;
-}
+<head>
+  <style>
+    details {
+      margin-bottom: 12px;
+    }
 
-summary {
-  cursor: pointer;
-  font-size: 1.05em;
-  margin-top: 8px;
-}
+    summary {
+      cursor: pointer;
+      font-size: 1.05em;
+      margin-top: 8px;
+    }
 
-summary:hover {
-  color: #2a7ae2;
-}
+    summary:hover {
+      color: #2a7ae2;
+    }
+  </style>
+</head>
 # Ryan Fang
 Unity Gameplay Programmer
 
