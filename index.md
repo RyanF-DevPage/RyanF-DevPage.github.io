@@ -25,25 +25,29 @@ Specialized in gameplay systems design and programming.
     forcing players to make difficult decisions under extreme time pressure.
   </p>
 
-  <h3>Why & How?</h3>
-  <p>
-    As a newly committed game developer, I built my first original game
-    completely from the ground up. Working alongside Claude AI, I implemented
-    the project in C#, applying SOLID design principles and the Singleton
-    pattern to maintain a clean and scalable architecture.
-  </p>
+  <details>
+    <summary><strong>Why & How? (Click to expand)</strong></summary>
 
-  <p>
-    The system was designed with extensibility in mind, allowing features to
-    be modified or expanded with minimal refactoring. For example, all
-    interactable objects inherit from a shared base class while maintaining
-    independent interaction logic.
-  </p>
+    <p>
+      As a newly committed game developer, I built my first original game
+      completely from the ground up. Working alongside Claude AI, I implemented
+      the project in C#, applying SOLID design principles and the Singleton
+      pattern to maintain a clean and scalable architecture.
+    </p>
 
-  <p>
-    The project was version-controlled using GitHub to support safe iteration,
-    consistent updates, and collaborative development.
-  </p>
+    <p>
+      The system was designed with extensibility in mind, allowing features
+      to be modified or expanded with minimal refactoring. For example, all
+      interactable objects inherit from a shared base class while maintaining
+      independent interaction logic.
+    </p>
+
+    <p>
+      The project was version-controlled using GitHub to support safe iteration,
+      consistent updates, and collaborative development.
+    </p>
+
+  </details>
 
   <h3>When?</h3>
   <p>
