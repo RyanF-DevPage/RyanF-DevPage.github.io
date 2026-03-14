@@ -9,27 +9,65 @@ Specialized in gameplay systems design and programming.
   <div>
     <h2>INTERVENE - An Original 2D RPG Demo</h2>
     <p>Unity | C# | 20 Second Game Jam</p>
-    <p>
-    <b>What?:</b> a short, narrative-driven game prototype submission for the 20 Second Game Jam.
-The game explores themes of moral choice, responsibility, and timing, forcing players to make
-moral decisions under extreme time pressure.
-<b>Why and How?:</b> As a newly committed game developer, I created my first original game from
-the ground up. Working alongside Claude AI, I implemented the project in C#, applying SOLID
-design principles and the Singleton pattern to maintain a clean, scalable codebase. The system
-was designed with extensibility in mind, allowing features to be modified or expanded with
-minimal refactoring. For instance, all interactable objects inherit from a common base class
-while independently managing their own interaction logic. In addition to development, the
-project was version-controlled using GitHub to ensure consistent updates, collaboration, and
-safe iteration across builds.
-<b> When?</b>: The game prototype was officially published on Itch.io on Dec 24, 2025.
-<b>Who and Where</b>: With my teammate Xiaoyi Wang, who is a game designer and
-narrator. We collaborated all online through messaging and zoom meetings.
-<b>Outcomes</b>: The project resulted in a fully playable prototype, validating the successful
-implementation of all core game mechanics. Beyond the technical outcome, I gained valuable
-experience collaborating with my non-technical teammate. This required translating complex
-technical concepts into clear, accessible language to ensure shared understanding and
-productive decision-making across the team.
-    </p>
+    <ul class="project-meta">
+  <li><strong>Engine:</strong> Unity</li>
+  <li><strong>Language:</strong> C#</li>
+  <li><strong>Team Size:</strong> 2</li>
+  <li><strong>Platform:</strong> PC</li>
+  <li><strong>Release:</strong> Dec 24, 2025</li>
+</ul>
+<section class="project-description">
+
+  <h3>What?</h3>
+  <p>
+    A short, narrative-driven game prototype created for the 20 Second Game Jam.
+    The game explores themes of moral choice, responsibility, and timing,
+    forcing players to make difficult decisions under extreme time pressure.
+  </p>
+
+  <h3>Why & How?</h3>
+  <p>
+    As a newly committed game developer, I built my first original game
+    completely from the ground up. Working alongside Claude AI, I implemented
+    the project in C#, applying SOLID design principles and the Singleton
+    pattern to maintain a clean and scalable architecture.
+  </p>
+
+  <p>
+    The system was designed with extensibility in mind, allowing features to
+    be modified or expanded with minimal refactoring. For example, all
+    interactable objects inherit from a shared base class while maintaining
+    independent interaction logic.
+  </p>
+
+  <p>
+    The project was version-controlled using GitHub to support safe iteration,
+    consistent updates, and collaborative development.
+  </p>
+
+  <h3>When?</h3>
+  <p>
+    The prototype was officially published on Itch.io on December 24, 2025.
+  </p>
+
+  <h3>Who & Where?</h3>
+  <p>
+    I collaborated with my teammate Xiaoyi Wang, a game designer and narrator.
+    All work was conducted remotely through messaging and Zoom meetings.
+  </p>
+
+  <h3>Outcome</h3>
+  <p>
+    The project resulted in a fully playable prototype that successfully
+    implemented all core gameplay mechanics. Beyond the technical outcome,
+    the experience provided valuable practice collaborating with a
+    non-technical teammate.
+    This required translating complex technical concepts into clear,
+    accessible language to support shared understanding and productive
+    design decisions across the team.
+  </p>
+
+</section>
     <iframe
   src="https://drive.google.com/file/d/1fS8pwrAU7n6dWXs3CG2QwhgNDMGQDg6J/preview"
   width="960" height="540"
