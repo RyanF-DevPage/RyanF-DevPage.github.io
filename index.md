@@ -1,19 +1,5 @@
 <head>
-  <style>
-    details {
-      margin-bottom: 12px;
-    }
-
-    summary {
-      cursor: pointer;
-      font-size: 1.05em;
-      margin-top: 8px;
-    }
-
-    summary:hover {
-      color: #2a7ae2;
-    }
-  </style>
+<link rel="stylesheet" href="/assets/css/custom.css">
 </head>
 # Ryan Fang
 Unity Gameplay Programmer
