@@ -26,7 +26,7 @@ Specialized in gameplay systems design and programming.
   </p>
 
   <details>
-    <summary><strong>Why & How? (Click to expand)</strong></summary>
+    <summary><h3>Why & How? (Click to expand)</h3></summary>
 
     <p>
       As a newly committed game developer, I built my first original game
